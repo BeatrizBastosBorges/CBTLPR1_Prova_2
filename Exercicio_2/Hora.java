@@ -64,7 +64,7 @@ class Hora {
         try {
             System.out.print("Digite o minuto: ");
             int minuto = scan.nextInt();
-            if (minuto >= 0 && minuto <= 60) {
+            if (minuto >= 0 && minuto < 60) {
                 this.minuto = minuto;
             } else {
                 System.out.println("Minuto invalido.");
@@ -89,7 +89,7 @@ class Hora {
         try {
             System.out.print("Digite o segundo: ");
             int segundo = scan.nextInt();
-            if (segundo >= 0 && segundo <= 60) {
+            if (segundo >= 0 && segundo < 60) {
                 this.segundo = segundo;
             } else {
                 System.out.println("Segundo invalido.");
