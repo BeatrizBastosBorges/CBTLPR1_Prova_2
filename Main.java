@@ -1,4 +1,7 @@
 public class Main {
+
+    /* Desenvolvido por Beatriz Bastos Borges e Miguel Luizatto Alves */
+    
     public static void main(String[] args) {
         
         ConsultaAgendada p1 = new ConsultaAgendada(14, 30, 0, 15, 8, 2024, "Joao Silva", "Dr. Pereira");
