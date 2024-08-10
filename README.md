@@ -58,5 +58,6 @@ construtor ConsultaAgendada (int h, int mi, int s, int d, int m, int a, String p
 
 ## Exercício 04
 - Escreva todo o resultado obtido no exercício 3 em um arquivo texto.
-
-<img src="assets/video.gif">
+<br>
+<br>
+Link para o vídeo testando o programa: https://www.youtube.com/watch?v=8Np3o7XYECA
