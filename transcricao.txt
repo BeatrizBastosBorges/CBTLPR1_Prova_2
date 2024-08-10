@@ -1,0 +1,46 @@
+Consulta 1:
+Data: 15/8/2024
+Hora: 14:30:00
+Paciente: Joao Silva      
+Medico: Dr. Pereira       
+Quantidade de consultas: 1
+
+
+Digite o ano: 2024
+Digite o mes: 8
+Digite o dia: 10
+Digite a hora: 18
+Digite o minuto: 26
+Digite o segundo: 49
+Digite o nome do paciente: Miguel 
+Digite o nome do medico: Henrique
+
+
+Consulta 2:    
+Data: 10/8/2024
+Hora: 18:26:49 
+Paciente: Miguel
+Medico: Henrique
+
+
+Quantidade de consultas: 2
+
+
+Alterando dados de p1
+Digite o ano: 2025
+Digite o mes: 4
+Digite o dia: 11
+Digite a hora: 10
+Digite o minuto: 30
+Digite o segundo: 45
+Digite o nome do paciente: Beatriz
+Digite o nome do medico: Maria
+
+
+Data: 11/4/2025
+Hora: 10:30:45
+Paciente: Beatriz
+Medico: Maria
+
+
+Quantidade de consultas: 2
